@@ -1,2 +1,1 @@
-# Zephram 
-![GitHub Logo](/images/logo.png) 
+# Zephram :rocket:
