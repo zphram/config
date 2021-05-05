@@ -1,3 +1,3 @@
 # Zephram :rocket:
-## discord bot development, content creator
+## discord bot development, content creator, basic tool/game develoment
 ![zephram's github stats](https://github-readme-stats.vercel.app/api?username=zkrnn&theme=radical&show_icons=true)
